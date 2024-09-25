@@ -1,0 +1,53 @@
+/* Styling for cards, layout and cart */
+.container {
+  margin-top: 20px;
+}
+
+.card-body {
+  font-size: 0.9rem;
+}
+
+button {
+  width: 30px;
+  height: 30px;
+  border-radius: 50%;
+  background-color: #ddd;
+  border: none;
+  cursor: pointer;
+}
+
+button:hover {
+  background-color: #ccc;
+}
+
+.card {
+  border-radius: 10px;
+}
+
+.card h5 {
+  font-size: 1rem;
+}
+
+.card img {
+  border-radius: 10px;
+}
+
+.card p {
+  margin: 5px 0;
+}
+
+.card-text {
+  font-size: 0.9rem;
+}
+
+h2 {
+  margin-top: 40px;
+}
+
+.card .price {
+  font-weight: bold;
+}
+
+.mx-2 {
+  padding: 0 10px;
+}
